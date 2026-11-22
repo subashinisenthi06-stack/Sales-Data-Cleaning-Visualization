@@ -1,0 +1,59 @@
+
+=========================================
+REAL-WORLD RETAIL SALES ANALYSIS REPORT
+=========================================
+
+DATASET SUMMARY
+
+Original Records: 52
+Records After Cleaning: 47
+Total Columns: 10
+
+SALES SUMMARY
+
+Total Sales: 153707
+Total Orders: 47
+Total Quantity Sold: 592.0
+Average Sales: 3270.36
+Total Customers: 31
+
+BUSINESS INSIGHTS
+
+Best Selling Category: Furniture
+Highest Sales City: Bengaluru
+Best Performing Sales Channel: Online
+Top Selling Product: Bookshelf
+
+CATEGORY-WISE SALES
+
+Category
+Furniture       69590
+Electronics     44177
+Clothing        27676
+Groceries        7605
+Unknown          4299
+electronics       360
+
+CITY-WISE SALES
+
+City
+Bengaluru    47390
+Kochi        26904
+Pune         21855
+Chennai      19520
+Mumbai       17792
+Delhi        10587
+Hyderabad     8589
+Unknown        720
+ chennai       350
+
+MONTHLY SALES
+
+Order_Date
+2026-01-31    89887
+2026-02-28    63820
+Freq: ME
+
+=========================================
+END OF REPORT
+=========================================
